@@ -1,0 +1,2 @@
+class UniqueFactory(object):
+    pass

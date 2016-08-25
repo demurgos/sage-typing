@@ -1,0 +1,2 @@
+class Morphism(object):
+    pass
