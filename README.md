@@ -73,4 +73,4 @@ dependenvies, then add the actual type hints.
 
 ## License
 
-[MIT License, Copyright © 2016 Charles Samborski](./license.txt)
+[MIT License, Copyright © 2016 Charles Samborski](./LICENSE.txt)
