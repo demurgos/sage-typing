@@ -1,3 +1,10 @@
+<img
+  src="./logo.png"
+  alt="Sage Typing Logo"
+  title="Sage Typing"
+  align="right"
+/>
+
 # Sage-Typing
 
 This repository provides [Python type hints][typing-pep] for [Sage][sage-website].
